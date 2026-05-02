@@ -2,5 +2,8 @@
     "Name": "娇小玩偶",
     "Desc": "由天空飘落的羽毛编织的雪灵玩偶,可加强供奉者的能力。\n\n增加一次跳跃能力。",
     "Type": "Yellow",
-    "Icon": "TripleJump.png"
+    "Icon": "TripleJump.png",
+    "MapID":"Peak_08b",
+    "Position":[281,102],
+    "state":"act3_wokeUp"
 }

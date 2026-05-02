@@ -28,6 +28,14 @@ outdir = "./dist"
 source = "./temp"
 target = "/"
 
+[[build.copy]]
+source = "../TripleJump.json"
+target = "/"
+
+[[build.copy]]
+source = "../TripleJump.png"
+target = "/"
+
 # additional files and directories can be added to the package like this:
 # [[build.copy]]
 # source = "./CHANGELOG.md"
